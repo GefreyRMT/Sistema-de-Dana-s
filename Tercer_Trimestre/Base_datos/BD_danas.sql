@@ -1,4 +1,4 @@
-drop database danas;
+-- drop database danas;
 create database danas;
 use danas;
 
